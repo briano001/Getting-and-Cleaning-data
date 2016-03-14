@@ -1,12 +1,13 @@
 
-## Set working directory for where UCI diretory has been loaded
-setwd("/Users/briano001/RSolutions/")
+## Set working directory for where UCI diretory has been loaded - coomented out for sharing on github
+## setwd("/Users/briano001/RSolutions/")
 
 
 ## Ensure all the proper libraries are loaded
 require("data.table")
 require(reshape2)
 
+# Alternate to loading libraries
 # library(data.table)
 # library(reshape2)
 
